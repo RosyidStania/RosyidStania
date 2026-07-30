@@ -57,9 +57,15 @@
 <br>
 
 <div align="center">
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:rosyid.stania@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/USERNAME_IG_KAMU)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/USERNAME_LINKEDIN_KAMU)
+  <a href="mailto:rosyid.stania@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/USERNAME_IG_KAMU">
+    <img src="https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/USERNAME_LINKEDIN_KAMU">
+    <img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" />
+  </a>
 </div>
 
 <div align="center">
