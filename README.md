@@ -40,6 +40,6 @@ Grafik ini menampilkan intensitas *coding* dan aktivitas kontribusi.
 ### 📊 Statistik GitHub & Bahasa Favorit
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RosyidStania&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Statistik RosyidStania" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosyidStania&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Bahasa Pemrograman Teratas" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RosyidStania&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Statistik RosyidStania" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosyidStania&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Bahasa Pemrograman Teratas" width="48%" />
 </p>
