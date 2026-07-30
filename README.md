@@ -1,11 +1,13 @@
 <div align="center">
-  <!-- Kamu bisa mengganti link src di bawah ini dengan gambar banner atau GIF favoritmu -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
   
   <br><br>
   
   <h3>Halo, nama saya Rosyid ! 👋</h3>
   <p>Mahasiswa D3 Teknik Informatika | Full-Stack Developer & ML Enthusiast</p>
+  
+  <!-- Ini adalah tag untuk memunculkan animasi Bongo Cat yang sedang coding -->
+  <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" />
 </div>
 
 <br>
@@ -32,9 +34,9 @@
     </td>
   </tr>
   <tr>
-    <!-- Kartu GitHub Streak -->
+    <!-- Kartu GitHub Streak (URL TELAH DIPERBARUI AGAR TIDAK ERROR) -->
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RosyidStania&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=RosyidStania&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
     </td>
     <!-- Grafik Aktivitas -->
     <td align="center" width="50%">
@@ -42,8 +44,6 @@
     </td>
   </tr>
 </table>
-
-<br><br>
 
 <!-- Ikon Teknologi (Skill Icons) -->
 <p align="center">
