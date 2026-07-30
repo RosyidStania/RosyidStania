@@ -1,0 +1,36 @@
+name: Auto Update Tech Stack Badges
+
+on:
+  schedule:
+    # Berjalan setiap hari pada pukul 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Memungkinkan tombol "Run workflow" ditekan secara manual
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    # Memberikan izin untuk menulis (commit) ke repositori
+    permissions:
+      contents: write 
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18' # Node 18 memiliki fungsi fetch() bawaan
+
+      - name: Run Update Script
+        run: node update-badges.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          # Hanya lakukan commit jika ada perubahan (agar tidak error jika tidak ada repo baru)
+          git commit -m "🤖 Auto-update tech stack badges" || exit 0
+          git push
