@@ -8,9 +8,6 @@
       Halo, nama saya Rosyid !
       <br>
 </div>
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FRosyidStania&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
-</div>
       
 <br>
 <br>
@@ -60,10 +57,10 @@
   <a href="mailto:rosyid.stania@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail" />
   </a>
-  <a href="https://instagram.com/USERNAME_IG_KAMU">
+  <a href="https://instagram.com/rosyid.stania">
     <img src="https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN_KAMU">
+  <a href="https://linkedin.com/in/RosyidStaniaArdiyanPutra">
     <img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" />
   </a>
 </div>
