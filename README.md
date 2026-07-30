@@ -4,13 +4,13 @@
   
   <br><br>
   
-  <!-- Teks Perkenalan -->
-  <b>フルスタック開発者</b> <br> <!-- Artinya: Full-Stack Developer -->
-  <b>Halo, nama saya Rosyid !</b>
+  <!-- Teks Perkenalan bergaya Monospace -->
+  <code>フルスタック開発者</code> <br>
+  <code>Halo, nama saya Rosyid !</code>
   <br><br>
   
-  <!-- Animasi Kucing Siluet Putih -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150" alt="White Cat Animation" />
+  <!-- Animasi Kucing (Menggunakan tautan yang stabil) -->
+  <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Cat Animation" />
   <br>
   <!-- Label Meow -->
   <img src="https://img.shields.io/badge/-meow%20♡-000000?style=flat-square" alt="meow" />
