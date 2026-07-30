@@ -1,53 +1,40 @@
 # Halo, Saya Rosyid! 👋
 
-Saya seorang pengembang perangkat lunak yang antusias dalam membangun aplikasi web dan mobile yang skalabel, serta mengeksplorasi penerapan *machine learning* untuk analisis data.
+Saya seorang mahasiswa Teknik Informatika yang antusias dalam membangun aplikasi *full-stack* modern dan mengeksplorasi penerapan *machine learning* (khususnya *time-series forecasting* untuk analisis data).
+
+### 🚀 Apa yang sedang saya kerjakan
+- 💻 Mengembangkan proyek aplikasi dan sistem menggunakan **Golang**, **React**, dan **Node.js**.
+- 🤖 Mengeksplorasi model algoritma untuk prediksi penjualan dan stok barang.
+- ⚡ Menggunakan alat pengembangan modern seperti **Vite** untuk performa *frontend* yang maksimal.
 
 ---
 
-### 🛠️ Bahasa & Teknologi Utama
-
-Berikut adalah teknologi yang sering saya gunakan:
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <!-- Ikon Golang -->
-  <a href="https://go.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> 
-  </a>
-  <!-- Ikon React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <!-- Ikon Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <!-- Ikon Flutter -->
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a>
-  <!-- Ikon MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 ---
 
-### 📊 Statistik GitHub
+### 📈 Aktivitas Commit (Activity Graph)
 
-Bagian ini diperbarui secara otomatis setiap kali ada aktivitas baru di GitHub.
+Grafik ini menampilkan intensitas *coding* dan *commit* yang kamu lakukan dari waktu ke waktu.
 
 <p align="center">
-  <!-- Kartu Statistik Utama -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RosyidStania&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik RosyidStania" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RosyidStania&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=f7768e" alt="Grafik Aktivitas Commit" width="100%" />
 </p>
 
-<p align="center">
-  <!-- Kartu Bahasa Teratas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosyidStania&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Pemrograman Teratas" />
-</p>
+---
+
+### 📊 Statistik GitHub & Bahasa Favorit
 
 <p align="center">
-  <!-- Kartu Streak (Aktivitas Beruntun) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RosyidStania&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RosyidStania&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Statistik RosyidStania" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosyidStania&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Bahasa Pemrograman Teratas" width="48%" />
 </p>
