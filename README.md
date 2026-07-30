@@ -1,45 +1,76 @@
-# Halo, Saya Rosyid! 👋
+<div align="center">
+  <!-- Kamu bisa mengganti link src di bawah ini dengan gambar banner atau GIF favoritmu -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  
+  <br><br>
+  
+  <h3>Halo, nama saya Rosyid ! 👋</h3>
+  <p>Mahasiswa D3 Teknik Informatika | Full-Stack Developer & ML Enthusiast</p>
+</div>
 
-Saya seorang mahasiswa Teknik Informatika yang antusias dalam membangun aplikasi *full-stack* modern dan mengeksplorasi penerapan *machine learning* (khususnya *time-series forecasting* untuk analisis data).
+<br>
 
-### 🚀 Apa yang sedang saya kerjakan
-- 💻 Mengembangkan proyek aplikasi dan sistem menggunakan **Golang**, **React**, dan **Node.js**.
-- 🤖 Mengeksplorasi model algoritma untuk prediksi penjualan dan stok barang.
-- ⚡ Menggunakan alat pengembangan modern seperti **Vite** untuk performa *frontend* yang maksimal.
+<!-- Dropdown More Info -->
+<details align="center">
+  <summary><b>▼ More Info</b></summary>
+  <br>
+  <p>Saya antusias dalam membangun aplikasi web modern dan mengeksplorasi penerapan <i>machine learning</i>, khususnya <i>time-series forecasting</i> untuk analisis penjualan dan stok barang (AI-STOCK).</p>
+</details>
 
----
+<br><br>
 
-### 🛠️ Tech Stack & Tools
+<!-- Grid Statistik menggunakan HTML Table -->
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <!-- Kartu Statistik Utama -->
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-mu-six-51.vercel.app/api?username=RosyidStania&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Statistik RosyidStania" />
+    </td>
+    <!-- Kartu Bahasa Teratas (Jupyter Disembunyikan) -->
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-mu-six-51.vercel.app/api/top-langs/?username=RosyidStania&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=jupyter%20notebook" alt="Bahasa Teratas" />
+    </td>
+  </tr>
+  <tr>
+    <!-- Kartu GitHub Streak -->
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RosyidStania&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    </td>
+    <!-- Grafik Aktivitas -->
+    <td align="center" width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=RosyidStania&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=f7768e" alt="Grafik Aktivitas" />
+    </td>
+  </tr>
+</table>
 
-Berikut adalah teknologi yang secara otomatis terdeteksi dari repositori saya:
+<br><br>
 
-<!--START_SECTION:badges-->
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Jupyter Notebook-gray?style=for-the-badge" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte" />
-  <img src="https://img.shields.io/badge/HTML-gray?style=for-the-badge" alt="HTML" />
-</p>
-<!--END_SECTION:badges-->
-
----
-
-### 📈 Aktivitas Commit (Activity Graph)
-
-Grafik ini menampilkan intensitas *coding* dan aktivitas kontribusi.
-
+<!-- Ikon Teknologi (Skill Icons) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RosyidStania&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=f7768e" alt="Grafik Aktivitas Commit" width="100%" />
+  <a href="https://skillicons.dev">
+    <!-- Kamu bisa menambah/mengurangi bahasa dengan mengubah parameter di URL ini -->
+    <img src="https://skillicons.dev/icons?i=go,react,nodejs,flutter,vite,mysql,php,java,cpp,python&theme=dark" alt="Tech Stack" />
+  </a>
 </p>
 
----
+<br><br>
 
-### 📊 Statistik GitHub & Bahasa Favorit
-
+<!-- Tombol Sosial Media -->
 <p align="center">
-  <img src="https://github-readme-stats-mu-six-51.vercel.app/api?username=RosyidStania&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Statistik RosyidStania" width="48%" />
-  <img src="https://github-readme-stats-mu-six-51.vercel.app/api/top-langs/?username=RosyidStania&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=jupyter%20notebook" alt="Bahasa   Pemrograman Teratas" width="48%" />
+  <a href="mailto:rosyid.stania@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/USERNAME_IG_KAMU">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/USERNAME_LINKEDIN_KAMU">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<br>
+
+<!-- Tautan Tambahan -->
+<p align="center">
+  ♡ <a href="#">Portofolio</a> ✢ <a href="#">Blog</a> ♡
 </p>
