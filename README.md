@@ -43,7 +43,7 @@
 
 <div align="center" style="display: inline_block"><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,flutter,vite,mysql,postgres,flash,svelte,python&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,flutter,vite,mysql,postgres,flask,svelte,python&theme=dark" alt="Tech Stack" />
   </a>
 </div>
 
