@@ -5,7 +5,7 @@
     <b>
       フルスタック開発者
       <br>
-      Halo, nama saya Rosyid !
+      Halo, nama saya Rosyid Stania !
       <br>
 </div>
       
